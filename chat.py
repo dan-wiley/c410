@@ -1,5 +1,5 @@
 print("this is my chat box")
 
-l = list((1,2,3))
+l = [i for i in range(1,4)]
 
-print (l)
+print (l, "hello world")
