@@ -1,5 +1,5 @@
 print("this is my chat box")
 
-l = list((1,2,3))
+p = list((1,2,3))
 
-print (l)
+print (p)
